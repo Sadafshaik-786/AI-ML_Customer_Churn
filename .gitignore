@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+models/churn_pipeline.pkl
+
+# Node
+node_modules/
+dist/
+build/
+
+# Lovable leftovers
+.vercel/
+.output/
